@@ -7,9 +7,7 @@
 - 📫 How to reach me: lindoten@gmail.com
 
 <div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="lindoten@gmail.com">
-
-<a href="https://www.linkedin.com/in/alissonlindote/" title="LinkedIn"> LinkedIn site</a>
+  <a href="lindoten@gmail.com" title="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 <p></p>
 
 <h3><strong> Started Learning at January 2022 </strong></h3>
