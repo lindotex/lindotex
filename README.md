@@ -28,7 +28,7 @@
 
 <h2>Management and Organization Tools that I am used to</h2>
 <div>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <a href="https://www.notion.so/Curso-de-Front-End-03f8922341f6443d96fa8f0f8e56e448"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 <hr>
