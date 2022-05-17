@@ -7,7 +7,7 @@
 - 📫 How to reach me: lindoten@gmail.com
 
 <div>
-  <a href="lindoten@gmail.com" title="email">
+  <a href="malto:lindoten@gmail.com" title="email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 <p></p>
