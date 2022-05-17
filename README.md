@@ -6,6 +6,8 @@
 - 💞️ I’m looking to improve mine personal Skills through experiences
 - 📫 How to reach me: lindoten@gmail.com
 
+[![e-mail]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malto:lindoten@gmail.com)
+
 <a href="https://www.linkedin.com/in/alissonlindote/" title="LinkedIn"> LinkedIn site</a>
 <p></p>
 
