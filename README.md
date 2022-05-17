@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to improve mine personal Skills through experiences
-- 📫 How to reach me: lindoten@gmail.com
+- 📫 How to reach me:
 
 <div>
   <a href=mailto:lindoten@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
