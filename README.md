@@ -14,6 +14,7 @@
   <a href="https://wa.me/qr/OEK6SCTY2VBQJ1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://discord.gg/etuUZHAn5w"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.twitch.tv/lindotex"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/Lindote/"><img src="	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 <p></p>
 
