@@ -1,7 +1,7 @@
 <div>
   <a href="http://monip.org/" ><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
   <a href="http://cv.lbesson.qc.to/" ><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a>
-  <a href="https://img.shields.io/github/license/lindotex/Udemy-Desenvolvimento-Web-2022.git.svg" ><img src="https://img.shields.io/github/license/{username}/{repo-name}.svg"></a>
+  <a href="https://img.shields.io/github/license/lindotex/Udemy-Desenvolvimento-Web-2022.git" ><img src="https://img.shields.io/github/license/{username}/{repo-name}.svg"></a>
 </div>
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
