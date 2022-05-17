@@ -1,6 +1,6 @@
 <div>
-  <a href="http://monip.org/" ><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
-  <a href="http://cv.lbesson.qc.to/" ><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a>
+  <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+  <a href="http://cv.lbesson.qc.to/"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a>
 </div>
 
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
