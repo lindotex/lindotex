@@ -7,12 +7,12 @@
 
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
-<img src="./kindpng.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-- 👋 Hi, I’m @lindotex !
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to improve my personal Skills through experiences
-- 📫 How to reach me:
+<img src="./kindpng.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
+<p>- 👋 Hi, I’m @lindotex !</p>
+<p>- 👀 I’m interested in Full Stack Web Development</p>
+<p>- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
+<p>- 💞️ I’m looking to improve my personal Skills through experiences</p>
+<p>- 📫 How to reach me:</p>
 
 <div>
   <a href=mailto:lindoten@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -24,6 +24,9 @@
   <a href="https://steamcommunity.com/id/Lindote/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://www.udemy.com/user/alisson-lindote-novais/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 </div>
+<br>
+<br>
+<br>
 <hr>
 
 <h2>Management and Organization Tools that I am used to</h2>
