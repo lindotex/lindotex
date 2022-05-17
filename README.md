@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @lindotex !
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to improve mine personal Skills through experiences
+- 💞️ I’m looking to improve my personal Skills through experiences
 - 📫 How to reach me:
 
 <div>
