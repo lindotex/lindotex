@@ -15,6 +15,7 @@
   <a href="https://discord.gg/etuUZHAn5w"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.twitch.tv/lindotex"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/Lindote/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://www.udemy.com/user/alisson-lindote-novais/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 </div>
 <p></p>
 
