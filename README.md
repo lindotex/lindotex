@@ -1,4 +1,5 @@
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
+<h3><strong> Started Learning at January 2022 </strong></h3>
 
 - 👋 Hi, I’m @lindotex !
 - 👀 I’m interested in Full Stack Web Development
@@ -11,7 +12,7 @@
   <a href="https://www.linkedin.com/in/alissonlindote/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p></p>
 
-<h3><strong> Started Learning at January 2022 </strong></h3>
+
 <p></p>
 
 <h3 align="left">Languages and Tools:</h3>
