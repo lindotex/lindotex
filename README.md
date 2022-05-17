@@ -10,7 +10,7 @@
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
 </div>
-<img src="./pngwing.com.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="./pngwing.com.png" min-width="350px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
 <p>- 👋 Hi, I’m @lindotex !</p>
 <p>- 👀 I’m interested in Full Stack Web Development</p>
 <p>- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
