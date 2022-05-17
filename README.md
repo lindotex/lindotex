@@ -13,6 +13,7 @@
 <img src="./pngwing.com.png" min-width="350px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
 <p>- 👋 Hi, I’m @lindotex !</p>
 <p>- 👀 I’m interested in Full Stack Web Development</p>
+<p>- 🛢️ I work at pretroleum industry, as a Instrumentation Technician</p>
 <p>- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
 <p>- 💞️ I’m looking to improve my personal Skills through experiences</p>
 <p>- 📫 How to reach me:</p>
