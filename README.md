@@ -1,5 +1,6 @@
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
+<a href="http://monip.org/" ><img href="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 
 - 👋 Hi, I’m @lindotex !
 - 👀 I’m interested in Full Stack Web Development
@@ -23,6 +24,14 @@
 <div>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+</div>
+<hr>
+<h2>Softwares that I am used to</h2>
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 </div>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
