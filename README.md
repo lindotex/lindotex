@@ -5,9 +5,12 @@
   <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 </div>
 
+<div>
+<img src="./kindpng.png" min-width="150px" max-width="150px" width="150px" align="left" alt="Computador iuriCode">
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
-<img src="./kindpng.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
+</div>
+<img src="./pngwing.com.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 <p>- 👋 Hi, I’m @lindotex !</p>
 <p>- 👀 I’m interested in Full Stack Web Development</p>
 <p>- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
