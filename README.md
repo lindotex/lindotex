@@ -7,7 +7,7 @@
 - 📫 How to reach me: lindoten@gmail.com
 
 <div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href=mailto:lindoten@gmail.com>
+  <a href=mailto:lindoten@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <p></p>
 
 <h3><strong> Started Learning at January 2022 </strong></h3>
