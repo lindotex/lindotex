@@ -7,7 +7,7 @@
 
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
-
+<img src="./kindpng.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 - 👋 Hi, I’m @lindotex !
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript
