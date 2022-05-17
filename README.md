@@ -21,15 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex" /></p>
 
-<h2><strong>Learned by Category</strong></h2>
-<p></p>
-<ul>
-<li><strong>Portuguese:</strong><em> Fluent Native</em></li>
-<li><strong>English:</strong><em> Internediate B1</em></li>
-<li><strong>HTML:</strong><em> Basic</em></li>
-<li><strong>CSS:</strong><em> Basic</em></li>
-</ul>
-
 <!---
 lindotex/lindotex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
