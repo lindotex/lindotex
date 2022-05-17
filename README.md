@@ -1,4 +1,7 @@
 <div>
+  <a href="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"><img src="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"></a>
+  <a href="https://img.shields.io/github/followers/lindotex?style=social"><img src="https://img.shields.io/github/followers/lindotex?style=social"></a>
+  <a href="https://img.shields.io/twitch/status/lindotex?style=social"><img src="https://img.shields.io/twitch/status/lindotex?style=social"></a>
   <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
   <a href="http://cv.lbesson.qc.to/"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a>
 </div>
@@ -43,6 +46,8 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight"></a>
+  
+  <h2>STATUS</h2>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex" /></p>
 </div>
 
