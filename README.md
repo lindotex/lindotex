@@ -11,7 +11,7 @@
 <h3><strong> Started Learning at January 2022 </strong></h3>
 </div>
 <img src="./pngwing.png" min-width="350px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
-<p>- 👋 Hi, I’m @lindotex !</p>
+<p>- 👋 Hi, I’m @lindotex ! A very organized person, as you can see...</p>
 <p>- 👀 I’m interested in Full Stack Web Development</p>
 <p>- 🛢️ I work at pretroleum industry, as a Instrumentation Technician</p>
 <p>- 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
@@ -28,11 +28,16 @@
   <a href="https://steamcommunity.com/id/Lindote/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://www.udemy.com/user/alisson-lindote-novais/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href="https://www.freecodecamp.org/learn/"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
-  <a href="https://www.ibat.ie/english.html" alt="ibat" height="40"><img src="./IBAT_logo.png"></a>
 </div>
 <br>
-<br>
-<br>
+<hr>
+<h2>Formal Education:</h2>
+<div>
+  <p><a href="https://portal1.iff.edu.br/"><img src="./" alt="iff" height="30"></a> Technological High School with Instrumentation Technician graduation, 2006-2009.</p>
+  <p><a href="https://ead.uca.edu.br/"><img src="./" alt="uca" height="30"></a> B.technology in Quality Management, 2019-2021.</p>
+  <p><a href="https://cursos.ampli.com.br/"><img src="./" alt="ampli" height="30"></a> Bachelor in Software Engneering, 2022-2025.</p>
+  <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="30"></a> General English, 2023</p>
+</div>
 <hr>
 
 <h2>Management and Organization Tools that I am used to</h2>
