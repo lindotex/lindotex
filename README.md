@@ -33,13 +33,12 @@
 <hr>
 <h2>Formal Education:</h2>
 <div>
-  <p><a href="https://portal1.iff.edu.br/"><img src="./" alt="iff" height="30"></a> Technological High School with Instrumentation Technician graduation, 2006-2009.</p>
-  <p><a href="https://ead.uca.edu.br/"><img src="./" alt="uca" height="30"></a> B.technology in Quality Management, 2019-2021.</p>
-  <p><a href="https://cursos.ampli.com.br/"><img src="./" alt="ampli" height="30"></a> Bachelor in Software Engneering, 2022-2025.</p>
-  <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="30"></a> General English, 2023</p>
+  <p><a href="https://portal1.iff.edu.br/"><img src="./IFF_logo.jpg" alt="iff" height="40"></a> Technological High School with Instrumentation Technician graduation, 2006-2009.</p>
+  <p><a href="https://ead.uca.edu.br/"><img src="./UCA_Logo.png" alt="uca" height="40"></a> B.technology in Quality Management, 2019-2021.</p>
+  <p><a href="https://cursos.ampli.com.br/"><img src="./AMPLI_logo.png" alt="ampli" height="40"></a> Bachelor in Software Engneering, 2022-2025.</p>
+  <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="40"></a> General English, 2023</p>
 </div>
 <hr>
-
 <h2>Management and Organization Tools that I am used to</h2>
 <div>
   <a href="https://www.notion.so/Curso-de-Front-End-03f8922341f6443d96fa8f0f8e56e448"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
