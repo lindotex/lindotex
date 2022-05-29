@@ -28,6 +28,8 @@
   <a href="https://steamcommunity.com/id/Lindote/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://www.udemy.com/user/alisson-lindote-novais/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
   <a href="https://www.freecodecamp.org/learn/"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+  <a href="https://dev.to/lindotex"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" widht="160" height="40"></a>
+  <a href="https://stackoverflow.com/users/19225945/lindoten"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" widht="100" height="40"></a>
 </div>
 <br>
 <hr>
