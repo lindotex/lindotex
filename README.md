@@ -62,14 +62,17 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
   </a>
-  <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+  <a href="https://icons.getbootstrap.com/" target="blank">
+     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
   <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/> 
@@ -80,9 +83,7 @@
   <a href="https://code.visualstudio.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs-code"/> 
   </a>
-  <a href="https://icons.getbootstrap.com/" target="blank">
-     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  </a>
+
 </p>
 
 <div>
