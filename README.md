@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="chrome"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox"/>
+
   
 </div>
 <hr>
@@ -78,6 +79,9 @@
   </a> 
   <a href="https://code.visualstudio.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs-code"/> 
+  </a>
+  <a href="https://icons.getbootstrap.com/" target="blank">
+     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
 </p>
 
