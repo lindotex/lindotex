@@ -6,11 +6,13 @@
 </div>
 
 <div>
-<img src="./kindpng.png" min-width="150px" max-width="150px" width="150px" align="left" alt="Computador iuriCode">
+<img src="./kindpng.png" min-width="300px" max-width="300px" width="150px" align="left" alt="Computador iuriCode">
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
 <h3><strong> Started Learning at January 2022 </strong></h3>
 </div>
-<img src="./pngwing.png" min-width="350px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
+<img src="./pngwing.png" min-width="20px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
+<br>
+<br>
 <p>- 👋 Hi, I’m @lindotex ! A very organized person, as you can see...</p>
 <p>- 👀 I’m interested in Full Stack Web Development</p>
 <p>- 🛢️ I work at pretroleum industry, as a Instrumentation Technician</p>
