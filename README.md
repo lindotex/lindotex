@@ -1,15 +1,16 @@
 <div>
-  <a href="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"><img src="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"></a>
-  <a href="https://img.shields.io/github/followers/lindotex?style=social"><img src="https://img.shields.io/github/followers/lindotex?style=social"></a>
-  <a href="https://img.shields.io/twitch/status/lindotex?style=social"><img src="https://img.shields.io/twitch/status/lindotex?style=social"></a>
+  <a align="left"><img src="https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat" alt="lindotex"/></a>
   <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat" alt="lindotex" /> </p>
+  <a href="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"><img src="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"></a>
+  <a href="https://img.shields.io/github/followers/lindotex?style=social"><img src="https://img.shields.io/github/followers/lindotex?style=social"></a>  
+  
+  
 </div>
 
 <div>
 <img src="./kindpng.png" min-width="300px" max-width="300px" width="150px" align="left" alt="Computador iuriCode">
 <h1><strong> ✨ Hello World! ✨ </strong></h1>
-<h3><strong> Started Learning at January 2022 </strong></h3>
+<h3><strong> Started my Journey of Learning code at January 2022 </strong></h3>
 </div>
 <img src="./pngwing.png" min-width="20px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 <br>
