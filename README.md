@@ -3,6 +3,7 @@
   <a href="https://img.shields.io/github/followers/lindotex?style=social"><img src="https://img.shields.io/github/followers/lindotex?style=social"></a>
   <a href="https://img.shields.io/twitch/status/lindotex?style=social"><img src="https://img.shields.io/twitch/status/lindotex?style=social"></a>
   <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat" alt="lindotex" /> </p>
 </div>
 
 <div>
