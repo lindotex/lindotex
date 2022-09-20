@@ -64,39 +64,42 @@
   
 </div>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks and Tools:</h3>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight"></a>
 <p align="left"> 
-  <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-C%20-blue" alt="C"/> 
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-HTML-orange" alt="html5"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+    <img src="https://img.shields.io/badge/Language-CSS-blue" alt="css3"/> 
   </a>
-    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/> 
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-JS-yellow" alt="js"/> 
+  </a>
+  <br>
+  </a>
+    <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Framework-Vue%20js-success" alt="vue"/> 
   </a>
   <a href="https://icons.getbootstrap.com/" target="blank">
-     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+     <img src="https://img.shields.io/badge/Framework-Bootstrap-blueviolet" alt="bootstrap"/>
   </a>
   <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/> 
+    <img src="https://img.shields.io/badge/Framework-Sass-ff69b4" alt="sass"/> 
   </a>
   <br>
   <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime"/> 
+    <img src="https://img.shields.io/badge/Tool-Sublime%20-lightgrey" alt="sublime"/> 
   </a> 
   <a href="https://code.visualstudio.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs-code"/> 
-  </a>
-
+    <img src="https://img.shields.io/badge/Tool-VS%20Code-blueviolet" alt="vs-code"/> 
 </p>
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight"></a>
-  
+<div>  
   <h2>STATUS</h2>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex" /></p>
 </div>
