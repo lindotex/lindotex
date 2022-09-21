@@ -75,9 +75,12 @@
     <img src="https://img.shields.io/badge/Tool-VS%20Code-blueviolet" alt="vs-code"/>
   </a>
 </p>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight"></a>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex"/>
+</div>
 
-<h2>Formal Education:</h2>
+## Formal Education:
 <div>
   <p><a href="https://portal1.iff.edu.br/"><img src="./IFF_logo.jpg" alt="iff" height="40" width="200"></a> Technological High School with Instrumentation Technician graduation, 2006-2009.</p>
   <p><a href="https://ead.uca.edu.br/"><img src="./UCA_Logo.png" alt="uca" height="40" width="200"></a> B.technology in Quality Management, 2019-2021.</p>
@@ -85,13 +88,15 @@
   <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="40" width="200"></a> General English, 2023</p>
 </div>
 
-<h2>Management and Organization Tools that I am used to</h2>
+
+## Management and Organization Tools that I am used to
 <div>
   <a href="https://www.notion.so/Curso-de-Front-End-03f8922341f6443d96fa8f0f8e56e448"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
-<h2>Softwares that I am used to</h2>
+
+## Softwares that I am used to
 <div>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft_office">
   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="libre_office">
@@ -99,16 +104,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="edge">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="chrome"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox"/>
-
-  
-</div>
-<div>  
-  <h2>GITHUB STATUS</h2>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex" /></p>
+  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox"/>  
 </div>
 
-<!---
-lindotex/lindotex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
