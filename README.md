@@ -75,9 +75,9 @@
     <img src="https://img.shields.io/badge/Tool-VS%20Code-blueviolet" alt="vs-code"/>
   </a>
 </p>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex"/>
+<div>  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindotex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lindotex" /></p
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex"/></p>
 </div>
 
 ## Formal Education:
