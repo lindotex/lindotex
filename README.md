@@ -47,9 +47,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.shields.io/badge/Language-CSS-blue" alt="css3"/> 
   </a>
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-Sass-ff69b4" alt="sass"/> 
+  </a>
   <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
     <img src="https://img.shields.io/badge/Language-JS-yellow" alt="js"/> 
-  </a>
+  </a>    
   <br>
   </a>
       <a href="https://nodejs.org/en/" target="_blank"> 
@@ -63,9 +66,6 @@
   </a>
   <a href="https://icons.getbootstrap.com/" target="blank">
      <img src="https://img.shields.io/badge/Framework-Bootstrap-blueviolet" alt="bootstrap"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Framework-Sass-ff69b4" alt="sass"/> 
   </a>
   <br>
   <a href="https://www.sublimetext.com/" target="_blank"> 
