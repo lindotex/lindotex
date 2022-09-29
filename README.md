@@ -52,7 +52,13 @@
   </a>
   <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
     <img src="https://img.shields.io/badge/Language-JS-yellow" alt="js"/> 
-  </a>    
+  </a>
+    <a href="https://icons.getbootstrap.com/" target="blank">
+     <img src="https://img.shields.io/badge/Language-PHP-blueviolet" alt="PHP"/>
+  </a>
+   <a href="https://www.sublimetext.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-SQL%20-lightgrey" alt="SQL"/> 
+  </a> 
   <br>
   </a>
       <a href="https://nodejs.org/en/" target="_blank"> 
