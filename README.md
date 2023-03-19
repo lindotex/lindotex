@@ -35,7 +35,7 @@
 
 <br>
 <hr>
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+## Languages, Frameworks and Tools:
 <p align="left"> 
   </a>
   <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
@@ -81,10 +81,17 @@
     <img src="https://img.shields.io/badge/Tool-VS%20Code-blueviolet" alt="vs-code"/>
   </a>
 </p>
-<div>  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindotex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lindotex" /></p
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight&locale=en" alt="lindotex"/></p>
-</div>
+
+<hr>
+
+## 📊 GitHub Activity
+
+
+| ![Alisson's Github Stats](https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight) | ![Alisson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lindotex&theme=tokyonight)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&langs_count=8&theme=tokyonight&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lindotex&theme=tokyonight&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lindotex&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lindotex&theme=tokyonight)
+
 
 ## Formal Education:
 <div>
