@@ -108,5 +108,13 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
+## 🏆 GitHub Trophies
+
+<hr>
+ 
+<h3 align="center">
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11">
+</h3>
+
 
 
