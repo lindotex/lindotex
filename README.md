@@ -73,6 +73,9 @@
   <a href="https://icons.getbootstrap.com/" target="blank">
      <img src="https://img.shields.io/badge/Framework-Bootstrap-blueviolet" alt="bootstrap"/>
   </a>
+  <a href="https://tailwindcss.com/" target="blank">
+     <img src="https://img.shields.io/badge/Framework-Tailwind-blue" alt="tailwind"/>
+  </a>
   <br>
   <a href="https://www.sublimetext.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Tool-Sublime%20-lightgrey" alt="sublime"/> 
