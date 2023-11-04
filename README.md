@@ -53,6 +53,9 @@
   <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
     <img src="https://img.shields.io/badge/Language-JS-yellow" alt="js"/> 
   </a>
+  <a href="https://docs.python.org/3" target="_blank"> 
+    <img src="https://img.shields.io/badge/Language-Python-blue" alt="py"/> 
+  </a>
     <a href="https://icons.getbootstrap.com/" target="blank">
      <img src="https://img.shields.io/badge/Language-PHP-blueviolet" alt="PHP"/>
   </a>
