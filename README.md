@@ -101,10 +101,10 @@
 
 ## Formal Education:
 <div>
-  <p><a href="https://portal1.iff.edu.br/"><img src="./IFF_logo.jpg" alt="iff" height="40" width="200"></a> Technological High School with Instrumentation Technician graduation, 2006-2009.</p>
-  <p><a href="https://ead.uca.edu.br/"><img src="./UCA_Logo.png" alt="uca" height="40" width="200"></a> B.technology in Quality Management, 2019-2021.</p>
-  <p><a href="https://cursos.ampli.com.br/"><img src="./AMPLI_logo.png" alt="ampli" height="40" width="200"></a> Bachelor in Software Engneering, 2022-2025.</p>
-  <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="40" width="200"></a> General English, 2023</p>
+  <p><a href="https://portal1.iff.edu.br/"><img src="./IFF_logo.jpg" alt="iff" height="40" width="200"></a>  QQI NFQ level 5 : Instrumentation Technician graduation, 2006-2009.</p>
+  <p><a href="https://ead.uca.edu.br/"><img src="./UCA_Logo.png" alt="uca" height="40" width="200"></a> QQI NFQ level 6: B.technology in Quality Management, 2019-2021.</p>
+  <p><a href="https://cursos.ampli.com.br/"><img src="./AMPLI_logo.png" alt="ampli" height="40" width="200"></a> QQI NFQ level 8: Bachelor in Software Engneering, 2022-2025.</p>
+  <p><a href="https://www.ibat.ie/"><img src="./IBAT_logo.png" alt="ibat" height="40" width="200"></a> General English, 2023. English level C1 (Advanced)</p>
 </div>
 
 
