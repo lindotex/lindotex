@@ -63,8 +63,8 @@ Student in Software Engineering looking for some experience in real world! Open 
 | ✅Done    | ![iff]                   | QQI NFQ Level 5   | 2006   | 2009     | Instrumentation technician  |
 | ✅Done    | ![uca]   | QQI NFQ Level 6   | 2019   | 2021     | BTech in Quality Management |
 | 👨🏻‍💻Working | ![ampli]                         | QQI NFQ Level 8   | 2022   | 2025     | Bsc. Software Engineering   |
-| ✅Done    | ![ibat]                  | QQI NFQ Level 8   | 2023   | 2024     | General English B2 and C1   |
-| 👨🏻‍💻Working | ![icot]                  | QQI NFQ Level 8   | 2024   | Doing    | General English C1          |
+| ✅Done    | ![ibat]                  | B2 - Upper intermediate  | 2023   | 2024     | General English B2 and C1   |
+| 👨🏻‍💻Working | ![icot]                  | C1 - Advanced   | 2024   | Doing    | General English C1          |
 
 ## Management and Organization Tools that I am used to
 
