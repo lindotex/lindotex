@@ -13,9 +13,9 @@ Student in Software Engineering looking for some experience in real world! Open 
 <div class='flex justify-between'>
   <div>
 
-  | Programming Languages  | Level     |
-  |------------------------|-----------|
-  | ![clang]                      | ⭐️⭐️       |
+  | Programming Languages     | Level      |
+  |---------------------------|------------|
+  | ![clang]                  | ⭐️⭐️       |
   | ![saas]                   | ⭐️⭐️       |
   | ![python]                 | ⭐️⭐️⭐️⭐️   |
   | ![javascript]             | ⭐️⭐️⭐️⭐️   |
@@ -27,22 +27,22 @@ Student in Software Engineering looking for some experience in real world! Open 
   
   <div>
 
-  | Frameworks and Libraries  | Level     |
-  |---------------------------|-----------|
-  | ![nodejs]                    | ⭐️⭐️⭐️     |
-  | ![reactjs]                     | ⭐️⭐️       |
-  | ![vuejs]                       | ⭐️⭐️⭐️     |
+  | Frameworks and Libraries   | Level      |
+  |----------------------------|------------|
+  | ![nodejs]                  | ⭐️⭐️⭐️     |
+  | ![reactjs]                 | ⭐️⭐️       |
+  | ![vuejs]                   | ⭐️⭐️⭐️     |
   | ![tailwind]                | ⭐️⭐️⭐️     |
-  | ![bootstrap]                 | ⭐️⭐️⭐️⭐️   |
+  | ![bootstrap]               | ⭐️⭐️⭐️⭐️   |
   </div>
   <div>
 
-  |"Not a language" | Level    |
-  |-----------------|----------|
+  |"Not a language"     | Level     |
+  |---------------------|-----------|
   | ![html5]            | ⭐️⭐️⭐️⭐️  |
   | ![css3]             | ⭐️⭐️⭐️    |
-  | ![markdown]        | ⭐️⭐️⭐️⭐️  |
-  | ![git]             | ⭐️⭐️⭐️⭐️  |
+  | ![markdown]         | ⭐️⭐️⭐️⭐️  |
+  | ![git]              | ⭐️⭐️⭐️⭐️  |
   </div>
 </div>
 
