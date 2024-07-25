@@ -1,7 +1,7 @@
 # ✨ Hello world! ✨  👋🏻 I'm Alisson
 Student in Software Engineering looking for some experience in real world! Open to internships or Junior positions.
 <!-- Badges -->
-![website] ![profileViews] ![watchers] ![followers] ![doc]
+![website] ![profileViews] ![watchers] ![followers]
 
 
 ### 📫 How to reach me:
