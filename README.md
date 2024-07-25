@@ -1,94 +1,50 @@
-<div>
-  <a align="left"><img src="https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat" alt="lindotex"/></a>
-  <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
-  <a href="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"><img src="https://img.shields.io/github/watchers/lindotex/lindotex?style=social"></a>
-  <a href="https://img.shields.io/github/followers/lindotex?style=social"><img src="https://img.shields.io/github/followers/lindotex?style=social"></a>  
-  
-  
-</div>
+# ✨ Hello world! ✨  👋🏻 I'm Alisson
+Student in Software Engineering looking for some experience in real world! Open to internships or Junior positions.
+<!-- Badges -->
+![website] ![profileViews] ![watchers] ![followers] ![doc]
 
-<div>
-<img src="./kindpng.png" min-width="300px" max-width="300px" width="150px" align="left" alt="Computador iuriCode">
-<h1><strong> ✨ Hello World! ✨ </strong></h1>
-<h3><strong> Started my Journey of Learning code at January 2022 </strong></h3>
-</div>
-<img src="./pngwing.png" min-width="20px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
-<br>
-<br>
-<p> 👋 Hi, I’m @lindotex ! A very organized person, as you can see...</p>
-<p> 👀 I’m interested in Full Stack Web Development</p>
-<p> 🛢️ I actualy work at pretroleum industry, as a Instrumentation Technician, but I want to change it!</p>
-<p> 🌱 I’m currently learning Advanced English, HTML5, CSS3 and JavaScript</p>
-<p> 💞️ I’m looking to improve my personal Skills through experiences</p>
-<p> 📫 How to reach me:</p>
-  <a href=mailto:lindoten@gmail.com><img src="https://www.google.com/images/branding/product/1x/gsa_android_144dp.png" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/alissonlindote/"><img src="https://static-exp1.licdn.com/sc/h/3loy7tajf3n0cho89wgg0fjre"></a>
-  <a href="https://twitter.com/alisson_lindote"><img src="https://abs.twimg.com/favicons/twitter.2.ico"></a>
-  <a href="https://wa.me/qr/OEK6SCTY2VBQJ1"><img src="https://web.whatsapp.com/img/favicon_94e99ab189284094867d2e1220e42e9f.png"></a>
-  <a href="https://discord.gg/etuUZHAn5w"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="30" height="28"></a>
-  <a href="https://www.twitch.tv/lindotex"><img src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg" width="50" height="30"></a>
-  <a href="https://steamcommunity.com/id/Lindote/"><img src="https://steamcommunity.com/favicon.ico" width="30" height="30"></a>
-  <a href="https://www.udemy.com/user/alisson-lindote-novais/"><img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png"></a>
-  <a href="https://www.freecodecamp.org/learn/"><img src="https://www.freecodecamp.org/icons/icon-48x48.png" width="30" height="30"></a>
-  <a href="https://dev.to/lindotex"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico" widht="40" height="40"></a>
-  <a href="https://stackoverflow.com/users/19225945/lindoten"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" widht="30" height="30"></a>
 
-<br>
-<hr>
+### 📫 How to reach me:
+
+  email [@lindoten](mailto:lindoten@gmail.com) |  linkedIn [@alissonlindote](https://www.linkedin.com/in/alissonlindote/)
+
 ## Languages, Frameworks and Tools:
-<p align="left"> 
-  </a>
-  <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-C%20-blue" alt="C"/> 
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-HTML-orange" alt="html5"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-CSS-blue" alt="css3"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-Sass-ff69b4" alt="sass"/> 
-  </a>
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-JS-yellow" alt="js"/> 
-  </a>
-  <a href="https://docs.python.org/3" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-Python-blue" alt="py"/> 
-  </a>
-    <a href="https://icons.getbootstrap.com/" target="blank">
-     <img src="https://img.shields.io/badge/Language-PHP-blueviolet" alt="PHP"/>
-  </a>
-   <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Language-SQL%20-lightgrey" alt="SQL"/> 
-  </a> 
-  <br>
-  </a>
-      <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Framework-Nodejs-success" alt="vue"/> 
-  </a>
-    <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Framework-Vue%20js-success" alt="vue"/> 
-  </a>
-      <a href="https://pt-br.reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Framework-React%20js-informational" alt="vue"/> 
-  </a>
-  <a href="https://icons.getbootstrap.com/" target="blank">
-     <img src="https://img.shields.io/badge/Framework-Bootstrap-blueviolet" alt="bootstrap"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="blank">
-     <img src="https://img.shields.io/badge/Framework-Tailwind-blue" alt="tailwind"/>
-  </a>
-  <br>
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tool-Sublime%20-lightgrey" alt="sublime"/> 
-  </a> 
-  <a href="https://code.visualstudio.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tool-VS%20Code-blueviolet" alt="vs-code"/>
-  </a>
-</p>
 
-<hr>
+<div class='flex justify-between'>
+  <div>
+
+  | Programming Languages  | Level     |
+  |------------------------|-----------|
+  | ![clang]                      | ⭐️⭐️       |
+  | ![saas]                   | ⭐️⭐️       |
+  | ![python]                 | ⭐️⭐️⭐️⭐️   |
+  | ![javascript]             | ⭐️⭐️⭐️⭐️   |
+  | ![typescript]             | ⭐️⭐️⭐️     |
+  | ![php]                    | ⭐️⭐️       |
+  | ![sql]                    | ⭐️⭐️⭐️⭐️   |
+  | ![nosql]                  | ⭐️⭐️⭐️     |
+  </div>
+  
+  <div>
+
+  | Frameworks and Libraries  | Level     |
+  |---------------------------|-----------|
+  | ![nodejs]                    | ⭐️⭐️⭐️     |
+  | ![reactjs]                     | ⭐️⭐️       |
+  | ![vuejs]                       | ⭐️⭐️⭐️     |
+  | ![tailwind]                | ⭐️⭐️⭐️     |
+  | ![bootstrap]                 | ⭐️⭐️⭐️⭐️   |
+  </div>
+  <div>
+
+  |"Not a language" | Level    |
+  |-----------------|----------|
+  | ![html5]            | ⭐️⭐️⭐️⭐️  |
+  | ![css3]             | ⭐️⭐️⭐️    |
+  | ![markdown]        | ⭐️⭐️⭐️⭐️  |
+  | ![git]             | ⭐️⭐️⭐️⭐️  |
+  </div>
+</div>
 
 ## 📊 GitHub Activity
 
@@ -100,27 +56,61 @@
 
 
 ## Formal Education:
-<div>
-  <p><a href="https://portal1.iff.edu.br/"><img src="./IFF_logo.jpg" alt="iff" height="40" width="200"></a>  QQI NFQ level 5 : Instrumentation Technician graduation, 2006-2009.</p>
-  <p><a href="https://ead.uca.edu.br/curso-de-graduacao-gestao-da-qualidade"><img src="./UCA_Logo.png" alt="uca" height="40" width="200"></a> QQI NFQ level 6: B.technology in Quality Management, 2019-2021.</p>
-  <p><a href="https://cursos.ampli.com.br/graduacao/engenharia-de-software"><img src="./AMPLI_logo.png" alt="ampli" height="40" width="200"></a> QQI NFQ level 8: Bachelor in Software Engneering, 2022-2025.</p>
-  <p><a href="https://www.ibat.ie/courses/english-language-school-dublin-courses/learn-general-english.html"><img src="./IBAT_logo.png" alt="ibat" height="40" width="200"></a> General English, 2023. English level C1 (Advanced)</p>
-</div>
 
+
+| Status    | Instutute                     | Instruction Level |Started | Finished | Description                 |
+|-----------|-------------------------------|-------------------|--------|----------|-----------------------------|
+| ✅Done    | ![iff]                   | QQI NFQ Level 5   | 2006   | 2009     | Instrumentation technician  |
+| ✅Done    | ![uca]   | QQI NFQ Level 6   | 2019   | 2021     | BTech in Quality Management |
+| 👨🏻‍💻Working | ![ampli]                         | QQI NFQ Level 8   | 2022   | 2025     | Bsc. Software Engineering   |
+| ✅Done    | ![ibat]                  | QQI NFQ Level 8   | 2023   | 2024     | General English B2 and C1   |
+| 👨🏻‍💻Working | ![icot]                  | QQI NFQ Level 8   | 2024   | Doing    | General English C1          |
 
 ## Management and Organization Tools that I am used to
-<div>
-  <a href="https://www.notion.so/Curso-de-Front-End-03f8922341f6443d96fa8f0f8e56e448"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-</div>
+
+![notion] ![trello]
 
 ## 🏆 GitHub Trophies
+![githubTrophies]
 
-<hr>
- 
-<h3 align="center">
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11">
-</h3>
+<!-- END OF THE README-->
+<!-- below, there are the linked links -->
+
+<!-- LINKS/IMG BINDING -->
+[website]: https://img.shields.io/website-up-down-green-red/http/monip.org.svg
+[profileViews]: https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat
+[watchers]: https://img.shields.io/github/watchers/lindotex/lindotex?style=social 
+[followers]: https://img.shields.io/github/followers/lindotex?style=social
+[computerImg]: ./kindpng.png
+
+[iff]: ./IFF_logo.jpg
+[uca]: ./UCA_Logo.png
+[ampli]: ./AMPLI_logo.png
+[ibat]: ./IBAT_logo.png
+[icot]: ./ICOT_Logo.png
+
+[notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+[trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[githubTrophies]: https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11
+[doc]: https://img.shields.io/badge/%F0%9F%93%96Documentation-purple
 
 
 
+<!-- badges-->
+[html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[clang]:https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[saas]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whit
+[python]:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[javascript]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+[typescript]:https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[php]:https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[sql]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[nosql]:https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[nodejs]:https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[reactjs]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[vuejs]:https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[tailwind]:  https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[bootstrap]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
