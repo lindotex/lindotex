@@ -39,7 +39,7 @@ Familiar Programming languages. [^1]
 | ✅Done|Instrumentation technician|![iff]| QQI NFQ Level 5|2006|2009|
 | ✅Done|BTech in Quality Management|![uca]| QQI NFQ Level 6|2019|2021|
 | 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli]| QQI NFQ Level 8|2022|2025|
-| ✅Done|General English B2 and C1|![ibat]| B2 - Upper intermediate|2023|2024|
+| ✅Done|General English B2 and C1|![ibat]| C1 - Advanced|2023|2024|
 | 👨🏻‍💻Working|General English C1 and C2| ![icot]| C2 - Fluent|2024|2025|
 
 ## Management and Organization Tools that I am used to
