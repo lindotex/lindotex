@@ -49,13 +49,13 @@ Familiar Programming languages. [^1]
 
 ## Formal Education {#education}
 
-| Status| Instutute| Instruction Level |Started | Finished | Description|
+| Status| Description| Instutute| Instruction Level |Started | Finished |
 |:-------|:----------:|:--------------|:-----:|:-------:|:----------|
-| ✅Done | ![iff]| QQI NFQ Level 5|2006|2009|Instrumentation technician|
-| ✅Done | ![uca]| QQI NFQ Level 6|2019|2021|BTech in Quality Management|
-| 👨🏻‍💻Working | ![ampli]| QQI NFQ Level 8|2022|2025|Bsc. Software Engineering|
-| ✅Done | ![ibat]| B2 - Upper intermediate|2023|2024|General English B2 and C1|
-| 👨🏻‍💻Working| ![icot]| C2 - Fluent|2024|2025|General English C1 and C2|
+| ✅Done|Instrumentation technician|![iff]| QQI NFQ Level 5|2006|2009|
+| ✅Done|BTech in Quality Management|![uca]| QQI NFQ Level 6|2019|2021|
+| 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli]| QQI NFQ Level 8|2022|2025|
+| ✅Done|General English B2 and C1|![ibat]| B2 - Upper intermediate|2023|2024|
+| 👨🏻‍💻Working|General English C1 and C2| ![icot]| C2 - Fluent|2024|2025|
 
 ## Management and Organization Tools that I am used to {#management-tools}
 
