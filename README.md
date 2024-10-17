@@ -10,7 +10,7 @@ Student in Software Engineering looking for some experience in real world! Open 
 
 ## Languages, Frameworks and Tools:
 
-<div class='flex justify-between'>
+<div>
   <div>
 
   | Programming Languages     | Level      |
@@ -64,7 +64,7 @@ Student in Software Engineering looking for some experience in real world! Open 
 | ✅Done    | ![uca]   | QQI NFQ Level 6   | 2019   | 2021     | BTech in Quality Management |
 | 👨🏻‍💻Working | ![ampli]                         | QQI NFQ Level 8   | 2022   | 2025     | Bsc. Software Engineering   |
 | ✅Done    | ![ibat]                  | B2 - Upper intermediate  | 2023   | 2024     | General English B2 and C1   |
-| 👨🏻‍💻Working | ![icot]                  | C1 - Advanced   | 2024   | Doing    | General English C1          |
+| 👨🏻‍💻Working | ![icot]                  | C2 - Fluent   | 2024   | 2025    | General English C1 and C2         |
 
 ## Management and Organization Tools that I am used to
 
