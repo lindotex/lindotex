@@ -36,11 +36,11 @@ Familiar Programming languages. [^1]
 
 | Status| Description| Instutute| Instruction Level |Started | Finished |
 |:-------|:----------:|:--------------:|:-----:|:-------:|:----------|
-| ✅Done|Instrumentation technician|![iff](https://portal1.iff.edu.br/nossos-campi/macae)| QQI NFQ Level 5|2006|2009|
-| ✅Done|BTech in Quality Management|![uca](https://presencial.uca.edu.br/)| QQI NFQ Level 6|2019|2021|
-| 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli](https://matriculas.ampli.com.br/graduacao)| QQI NFQ Level 8|2022|2025|
-| ✅Done|General English B2 and C1|![ibat](https://www.ibat.ie)| B2 - Upper intermediate|2023|2024|
-| 👨🏻‍💻Working|General English C1 and C2| ![icot](https://icot.ie/)| C2 - Fluent|2024|2025|
+| ✅Done|Instrumentation technician|![iff]| QQI NFQ Level 5|2006|2009|
+| ✅Done|BTech in Quality Management|![uca]| QQI NFQ Level 6|2019|2021|
+| 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli]| QQI NFQ Level 8|2022|2025|
+| ✅Done|General English B2 and C1|![ibat]| B2 - Upper intermediate|2023|2024|
+| 👨🏻‍💻Working|General English C1 and C2| ![icot]| C2 - Fluent|2024|2025|
 
 ## Management and Organization Tools that I am used to
 
