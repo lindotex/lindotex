@@ -11,7 +11,7 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 
 ## Languages, Frameworks and Tools
 
-| Programming Languages| Level|| Frameworks and Libraries| Level|"Not a language"     | Level     |
+| Programming Languages| Level| Frameworks and Libraries| Level|"Not a language"     | Level     |
 |:--------------:|:--------|:-----------:|:----------|:------------:|:-----------|
 | ![clang]       | ⭐️⭐️     | ![nodejs]   | ⭐️⭐️⭐️     | ![html5]     | ⭐️⭐️⭐️⭐️  |
 | ![saas]        | ⭐️⭐️     | ![reactjs]  | ⭐️⭐️       | ![css3]      | ⭐️⭐️⭐️    |
