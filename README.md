@@ -42,11 +42,11 @@ Familiar Programming languages. [^1]
 | ✅Done|General English B2 and C1|![ibat]| B2 - Upper intermediate|2023|2024|
 | 👨🏻‍💻Working|General English C1 and C2| ![icot]| C2 - Fluent|2024|2025|
 
-## Management and Organization Tools that I am used to {#management-tools}
+## Management and Organization Tools that I am used to
 
 ![notion] ![trello]
 
-## 🏆 GitHub Trophies {#github-trophies}
+## 🏆 GitHub Trophies
 
 ![githubTrophies]
 
