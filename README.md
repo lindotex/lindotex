@@ -5,39 +5,24 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 <!-- Badges -->
 ![website] ![profileViews] ![watchers] ![followers]
 
-## 📫 How to reach me: {#reach-me}
+## 📫 How to reach me
 
-email [@lindoten](mailto:lindoten@gmail.com) |  linkedIn [@alissonlindote](https://www.linkedin.com/in/alissonlindote/)
+📪 email* [@lindoten](mailto:lindoten@gmail.com) | ![linkedin] linkedIn [@alissonlindote](https://www.linkedin.com/in/alissonlindote/)
 
-## Languages, Frameworks and Tools 
+## Languages, Frameworks and Tools
 
-| Programming Languages| Level      |
-|:--------------:|:--------|
-| ![clang]       | ⭐️⭐️     |
-| ![saas]        | ⭐️⭐️     |
-| ![python]      | ⭐️⭐️⭐️⭐️  |
-| ![javascript]  | ⭐️⭐️⭐️⭐️  |
-| ![typescript]  | ⭐️⭐️⭐️   |
+| Programming Languages| Level|| Frameworks and Libraries| Level||"Not a language"     | Level     |
+|:--------------:|:--------|:-----------:|:----------|:------------:|:-----------|
+| ![clang]       | ⭐️⭐️     | ![nodejs]   | ⭐️⭐️⭐️     | ![html5]     | ⭐️⭐️⭐️⭐️  |
+| ![saas]        | ⭐️⭐️     | ![reactjs]  | ⭐️⭐️       | ![css3]      | ⭐️⭐️⭐️    |
+| ![python]      | ⭐️⭐️⭐️⭐️  | ![vuejs]    | ⭐️⭐️⭐️     | ![markdown]  | ⭐️⭐️⭐️⭐️  |
+| ![javascript]  | ⭐️⭐️⭐️⭐️  | ![tailwind] | ⭐️⭐️⭐️     | ![git]       | ⭐️⭐️⭐️⭐️  |
+| ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️   |
 | ![php]         | ⭐️⭐️     |
 | ![sql]         | ⭐️⭐️⭐️⭐️ |
 | ![nosql]       | ⭐️⭐️⭐️   |
 
 Familiar Programming languages. [^1]
-
-| Frameworks and Libraries   | Level      |
-|:----------------------------:|:------------|
-| ![nodejs]   | ⭐️⭐️⭐️     |
-| ![reactjs]  | ⭐️⭐️       |
-| ![vuejs]    | ⭐️⭐️⭐️     |
-| ![tailwind] | ⭐️⭐️⭐️     |
-| ![bootstrap]| ⭐️⭐️⭐️⭐️   |
-
-|"Not a language"     | Level     |
-|:---------------------:|:-----------|
-| ![html5]            | ⭐️⭐️⭐️⭐️  |
-| ![css3]             | ⭐️⭐️⭐️    |
-| ![markdown]         | ⭐️⭐️⭐️⭐️  |
-| ![git]              | ⭐️⭐️⭐️⭐️  |
 
 ## 📊 GitHub Activity 
 
@@ -99,3 +84,4 @@ Familiar Programming languages. [^1]
 [vuejs]:https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [tailwind]:  https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [bootstrap]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[linkedin]: ./LI-In-Bug.png
