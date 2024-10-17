@@ -27,8 +27,8 @@ Familiar Programming languages. [^1]
 
 ## 📊 GitHub Activity 
 
-|: ![Alisson's Github Stats](https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight) :|: ![Alisson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lindotex&theme=tokyonight)                                                                                                           |
-|:---------------------------------------------------------------------------------------------------------------------------------:|: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|: ![Alisson's Github Stats](https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight) :|: ![Alisson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lindotex&theme=tokyonight):|
+|:--------------:|: ---------:|
 |: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&langs_count=8&theme=tokyonight&layout=compact) :|: ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lindotex&theme=tokyonight&utcOffset=8) :|
 |: ![Top Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lindotex&theme=tokyonight) :|: ![Top Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lindotex&theme=tokyonight) :|
 
