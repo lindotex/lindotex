@@ -1,76 +1,68 @@
-# ✨ Hello world! ✨  👋🏻 I'm Alisson
-Student in Software Engineering looking for some experience in real world! Open to internships or Junior positions.
+# ✨ Hello world! ✨  {#title}
+
+## 👋🏻 I'm Alisson, Brazilian, 34y and in a career change. {#sub-title}
+
+Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a change in my career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
 <!-- Badges -->
 ![website] ![profileViews] ![watchers] ![followers]
 
+## 📫 How to reach me: {#reach-me}
 
-### 📫 How to reach me:
+email [@lindoten](mailto:lindoten@gmail.com) |  linkedIn [@alissonlindote](https://www.linkedin.com/in/alissonlindote/)
 
-  email [@lindoten](mailto:lindoten@gmail.com) |  linkedIn [@alissonlindote](https://www.linkedin.com/in/alissonlindote/)
+## Languages, Frameworks and Tools {#lang-frame-tools}
 
-## Languages, Frameworks and Tools:
+| Programming Languages| Level      |
+|:--------------:|:--------|
+| ![clang]       | ⭐️⭐️     |
+| ![saas]        | ⭐️⭐️     |
+| ![python]      | ⭐️⭐️⭐️⭐️  |
+| ![javascript]  | ⭐️⭐️⭐️⭐️  |
+| ![typescript]  | ⭐️⭐️⭐️   |
+| ![php]         | ⭐️⭐️     |
+| ![sql]         | ⭐️⭐️⭐️⭐️ |
+| ![nosql]       | ⭐️⭐️⭐️   |
 
-<div>
-  <div>
+Familiar Programming languages. [^1]
 
-  | Programming Languages     | Level      |
-  |---------------------------|------------|
-  | ![clang]                  | ⭐️⭐️       |
-  | ![saas]                   | ⭐️⭐️       |
-  | ![python]                 | ⭐️⭐️⭐️⭐️   |
-  | ![javascript]             | ⭐️⭐️⭐️⭐️   |
-  | ![typescript]             | ⭐️⭐️⭐️     |
-  | ![php]                    | ⭐️⭐️       |
-  | ![sql]                    | ⭐️⭐️⭐️⭐️   |
-  | ![nosql]                  | ⭐️⭐️⭐️     |
-  </div>
-  
-  <div>
+| Frameworks and Libraries   | Level      |
+|:----------------------------:|:------------|
+| ![nodejs]   | ⭐️⭐️⭐️     |
+| ![reactjs]  | ⭐️⭐️       |
+| ![vuejs]    | ⭐️⭐️⭐️     |
+| ![tailwind] | ⭐️⭐️⭐️     |
+| ![bootstrap]| ⭐️⭐️⭐️⭐️   |
 
-  | Frameworks and Libraries   | Level      |
-  |----------------------------|------------|
-  | ![nodejs]                  | ⭐️⭐️⭐️     |
-  | ![reactjs]                 | ⭐️⭐️       |
-  | ![vuejs]                   | ⭐️⭐️⭐️     |
-  | ![tailwind]                | ⭐️⭐️⭐️     |
-  | ![bootstrap]               | ⭐️⭐️⭐️⭐️   |
-  </div>
-  <div>
+|"Not a language"     | Level     |
+|:---------------------:|:-----------|
+| ![html5]            | ⭐️⭐️⭐️⭐️  |
+| ![css3]             | ⭐️⭐️⭐️    |
+| ![markdown]         | ⭐️⭐️⭐️⭐️  |
+| ![git]              | ⭐️⭐️⭐️⭐️  |
 
-  |"Not a language"     | Level     |
-  |---------------------|-----------|
-  | ![html5]            | ⭐️⭐️⭐️⭐️  |
-  | ![css3]             | ⭐️⭐️⭐️    |
-  | ![markdown]         | ⭐️⭐️⭐️⭐️  |
-  | ![git]              | ⭐️⭐️⭐️⭐️  |
-  </div>
-</div>
-
-## 📊 GitHub Activity
-
+## 📊 GitHub Activity {#github-history}
 
 | ![Alisson's Github Stats](https://github-readme-stats.vercel.app/api?username=lindotex&show_icons=true&theme=tokyonight) | ![Alisson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lindotex&theme=tokyonight)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&langs_count=8&theme=tokyonight&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lindotex&theme=tokyonight&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lindotex&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lindotex&theme=tokyonight)
+| ![Top Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lindotex&theme=tokyonight) | ![Top Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lindotex&theme=tokyonight) |
 
+## Formal Education {#education}
 
-## Formal Education:
+| Status| Instutute| Instruction Level |Started | Finished | Description|
+|-------|----------|-------------------|--------|----------|------------|
+| ✅Done | ![iff]| QQI NFQ Level 5|2006|2009|Instrumentation technician|
+| ✅Done | ![uca]| QQI NFQ Level 6|2019|2021|BTech in Quality Management|
+| 👨🏻‍💻Working | ![ampli]| QQI NFQ Level 8|2022|2025|Bsc. Software Engineering|
+| ✅Done | ![ibat]| B2 - Upper intermediate|2023|2024|General English B2 and C1|
+| 👨🏻‍💻Working| ![icot]| C2 - Fluent|2024|2025|General English C1 and C2|
 
-
-| Status    | Instutute                     | Instruction Level |Started | Finished | Description                 |
-|-----------|-------------------------------|-------------------|--------|----------|-----------------------------|
-| ✅Done    | ![iff]                   | QQI NFQ Level 5   | 2006   | 2009     | Instrumentation technician  |
-| ✅Done    | ![uca]   | QQI NFQ Level 6   | 2019   | 2021     | BTech in Quality Management |
-| 👨🏻‍💻Working | ![ampli]                         | QQI NFQ Level 8   | 2022   | 2025     | Bsc. Software Engineering   |
-| ✅Done    | ![ibat]                  | B2 - Upper intermediate  | 2023   | 2024     | General English B2 and C1   |
-| 👨🏻‍💻Working | ![icot]                  | C2 - Fluent   | 2024   | 2025    | General English C1 and C2         |
-
-## Management and Organization Tools that I am used to
+## Management and Organization Tools that I am used to {#management-tools}
 
 ![notion] ![trello]
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies {#github-trophies}
+
 ![githubTrophies]
 
 <!-- END OF THE README-->
@@ -79,10 +71,8 @@ Student in Software Engineering looking for some experience in real world! Open 
 <!-- LINKS/IMG BINDING -->
 [website]: https://img.shields.io/website-up-down-green-red/http/monip.org.svg
 [profileViews]: https://komarev.com/ghpvc/?username=lindotex&label=Profile%20views&color=0e75b6&style=flat
-[watchers]: https://img.shields.io/github/watchers/lindotex/lindotex?style=social 
+[watchers]: https://img.shields.io/github/watchers/lindotex/lindotex?style=social
 [followers]: https://img.shields.io/github/followers/lindotex?style=social
-[computerImg]: ./kindpng.png
-
 [iff]: ./IFF_logo.jpg
 [uca]: ./UCA_Logo.png
 [ampli]: ./AMPLI_logo.png
@@ -92,10 +82,6 @@ Student in Software Engineering looking for some experience in real world! Open 
 [notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 [trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [githubTrophies]: https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11
-[doc]: https://img.shields.io/badge/%F0%9F%93%96Documentation-purple
-
-
-
 <!-- badges-->
 [html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
