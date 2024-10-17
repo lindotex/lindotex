@@ -50,7 +50,7 @@ Familiar Programming languages. [^1]
 ## Formal Education {#education}
 
 | Status| Description| Instutute| Instruction Level |Started | Finished |
-|:-------|:----------:|:--------------|:-----:|:-------:|:----------|
+|:-------|:----------:|:--------------:|:-----:|:-------:|:----------|
 | ✅Done|Instrumentation technician|![iff]| QQI NFQ Level 5|2006|2009|
 | ✅Done|BTech in Quality Management|![uca]| QQI NFQ Level 6|2019|2021|
 | 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli]| QQI NFQ Level 8|2022|2025|
