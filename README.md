@@ -18,10 +18,10 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 | ![saas]        | ⭐️⭐️     | ![reactjs]  | ⭐️⭐️       | ![css3]      | ⭐️⭐️⭐️    |
 | ![python]      | ⭐️⭐️⭐️⭐️  | ![vuejs]    | ⭐️⭐️⭐️     | ![markdown]  | ⭐️⭐️⭐️⭐️  |
 | ![javascript]  | ⭐️⭐️⭐️⭐️  | ![tailwind] | ⭐️⭐️⭐️     | ![git]       | ⭐️⭐️⭐️⭐️  |
-| ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️   | | |
-| ![php]         | ⭐️⭐️     | | | | |
-| ![sql]         | ⭐️⭐️⭐️⭐️ | | | | |
-| ![nosql]       | ⭐️⭐️⭐️   | | | | |
+| ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️    | Management Tools | Level |
+| ![php]         | ⭐️⭐️     |             |            |:---------------:|:------:|
+| ![sql]         | ⭐️⭐️⭐️⭐️  |             |            | ![notion]      | ⭐️⭐️⭐️⭐️ |
+| ![nosql]       | ⭐️⭐️⭐️    |            |             |![trello]       | ⭐️⭐️⭐️⭐️ |
 
 Familiar Programming languages. [^1]
 
@@ -41,10 +41,6 @@ Familiar Programming languages. [^1]
 | 👨🏻‍💻Working|Bsc. Software Engineering| ![ampli]| QQI NFQ Level 8|2022|2025|
 | ✅Done|General English B2 and C1|![ibat]| C1 - Advanced|2023|2024|
 | 👨🏻‍💻Working|General English C1 and C2| ![icot]| C2 - Fluent|2024|2025|
-
-## Management and Organization Tools that I am used to
-
-![notion] ![trello]
 
 ## 🏆 GitHub Trophies
 
