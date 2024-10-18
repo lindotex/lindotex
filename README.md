@@ -1,7 +1,7 @@
 # ✨ Hello world! ✨  
 
 👋🏻 I'm Alisson, Brazilian, 34y and in a career change.
-Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a change in my career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
+Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a transition of career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
 
 <!-- Badges -->
 ![website] ![profileViews] ![watchers] ![followers]
