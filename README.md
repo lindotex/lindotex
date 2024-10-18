@@ -1,10 +1,10 @@
+<!-- Badges -->
+![website] ![profileViews] ![watchers] ![followers]
+
 # ✨ Hello world! ✨  
 
 👋🏻 I'm Alisson, Brazilian, 34y and in a career change.
 Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a transition of career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
-
-<!-- Badges -->
-![website] ![profileViews] ![watchers] ![followers]
 
 ## 📫 How to reach me
 
@@ -64,7 +64,7 @@ Familiar Programming languages. [^1]
 [ibat]: ./IBAT_logo.png
 [icot]: ./ICOT_Logo.png
 
-[notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+[notion]: [notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 [trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [githubTrophies]: https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11
 <!-- badges-->
