@@ -64,7 +64,7 @@ Familiar Programming languages. [^1]
 [ibat]: ./IBAT_logo.png
 [icot]: ./ICOT_Logo.png
 
-[notion]: [notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+[notion]: [https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](www.notion.com)
 [trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [githubTrophies]: https://hacked-github-stat-trophies.vercel.app/?username=lindotex&theme=tokyonight&column=11
 <!-- badges-->
