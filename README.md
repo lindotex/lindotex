@@ -18,10 +18,10 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 | ![saas]        | ⭐️⭐️     | ![reactjs]  | ⭐️⭐️       | ![css3]      | ⭐️⭐️⭐️    |
 | ![python]      | ⭐️⭐️⭐️⭐️  | ![vuejs]    | ⭐️⭐️⭐️     | ![markdown]  | ⭐️⭐️⭐️⭐️  |
 | ![javascript]  | ⭐️⭐️⭐️⭐️  | ![tailwind] | ⭐️⭐️⭐️     | ![git]       | ⭐️⭐️⭐️⭐️  |
-| ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️    | Management Tools | Level |
-| ![php]         | ⭐️⭐️     |             |            |:---------------:|:------:|
-| ![sql]         | ⭐️⭐️⭐️⭐️  |             |            | ![notion]      | ⭐️⭐️⭐️⭐️ |
-| ![nosql]       | ⭐️⭐️⭐️    |            |             |![trello]       | ⭐️⭐️⭐️⭐️ |
+| ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️    | **Management Tools** | **Level** |
+| ![php]         | ⭐️⭐️     |             |            | ![notion]      | ⭐️⭐️⭐️⭐️ |
+| ![sql]         | ⭐️⭐️⭐️⭐️  |             |            |![trello]       | ⭐️⭐️⭐️⭐️ |
+| ![nosql]       | ⭐️⭐️⭐️    |            |             | | |
 
 Familiar Programming languages. [^1]
 
