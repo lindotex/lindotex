@@ -3,7 +3,7 @@
 
 # ✨ Hello world! ✨  
 
-👋🏻 I'm Alisson, Brazilian, 34y and in a career change.
+👋🏻 I'm Alisson, Brazilian, 35y and in a career change.
 Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a transition of career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
 
 ## 📫 How to reach me
@@ -19,7 +19,7 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 | ![python]      | ⭐️⭐️⭐️⭐️  | ![vuejs]    | ⭐️⭐️⭐️     | ![markdown]  | ⭐️⭐️⭐️⭐️  |
 | ![javascript]  | ⭐️⭐️⭐️⭐️  | ![tailwind] | ⭐️⭐️⭐️     | ![git]       | ⭐️⭐️⭐️⭐️  |
 | ![typescript]  | ⭐️⭐️⭐️   | ![bootstrap]| ⭐️⭐️⭐️⭐️    | **Management Tools** | **Level** |
-| ![php]         | ⭐️⭐️     |             |            | ![notion]      | ⭐️⭐️⭐️⭐️ |
+| ![php]         | ⭐️⭐️     |  ![godot]    |  ⭐️⭐️⭐      | ![notion]      | ⭐️⭐️⭐️⭐️ |
 | ![sql]         | ⭐️⭐️⭐️⭐️  |             |            |![trello]       | ⭐️⭐️⭐️⭐️ |
 | ![nosql]       | ⭐️⭐️⭐️    |            |             | | |
 
@@ -81,3 +81,4 @@ Familiar Programming languages. [^1]
 [vuejs]:https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [tailwind]:  https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [bootstrap]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[godot]:https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat
