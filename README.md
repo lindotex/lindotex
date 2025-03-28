@@ -16,13 +16,13 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 | Programming Languages | Level        | Frameworks and Libraries | Level        |   "Not a language"   | Level        |
 | :-------------------: | :----------- | :----------------------: | :----------- | :------------------: | :----------- |
 |       ![clang]        | ⭐️⭐️       |        ![nodejs]         | ⭐️⭐️⭐️    |       ![html5]       | ⭐️⭐️⭐️⭐️ |
-|        ![saas]        | ⭐️⭐️       |        ![reactjs]        | ⭐️⭐️       |       ![css3]        | ⭐️⭐️⭐️    |
-|       ![python]       | ⭐️⭐️⭐️⭐️ |         ![vuejs]         | ⭐️⭐️⭐️    |     ![markdown]      | ⭐️⭐️⭐️⭐️ |
+|       ![python]       | ⭐️⭐️⭐️⭐️ |        ![reactjs]        | ⭐️⭐️⭐️    |       ![css3]        | ⭐️⭐️⭐️    |
+|        ![java]        | ⭐️⭐️       |         ![vuejs]         | ⭐️⭐️       |     ![markdown]      | ⭐️⭐️⭐️⭐️ |
 |     ![javascript]     | ⭐️⭐️⭐️⭐️ |       ![tailwind]        | ⭐️⭐️⭐️    |        ![git]        | ⭐️⭐️⭐️⭐️ |
-|     ![typescript]     | ⭐️⭐️⭐️    |       ![bootstrap]       | ⭐️⭐️⭐️⭐️ | **Management Tools** | **Level**    |
-|        ![php]         | ⭐️⭐️       |         ![godot]         | ⭐️⭐️⭐     |      ![notion]       | ⭐️⭐️⭐️⭐️ |
-|        ![sql]         | ⭐️⭐️⭐️⭐️ |                          |              |      ![trello]       | ⭐️⭐️⭐️⭐️ |
-|       ![nosql]        | ⭐️⭐️⭐️    |                          |              |                      |              |
+|     ![typescript]     | ⭐️⭐️⭐️    |       ![bootstrap]       | ⭐️⭐️⭐️⭐️ |       ![saas]        | ⭐️⭐️       |
+|        ![php]         | ⭐️⭐️       |         ![godot]         | ⭐️⭐️⭐     | **Management Tools** | **Level**    |
+|        ![sql]         | ⭐️⭐️⭐️⭐️ |                          |              |      ![notion]       | ⭐️⭐️⭐️⭐️ |
+|       ![nosql]        | ⭐️⭐️⭐️    |                          |              |      ![trello]       | ⭐️⭐️⭐️⭐️ |
 
 Familiar Programming languages. [^1]
 
@@ -42,7 +42,7 @@ Familiar Programming languages. [^1]
 | 👨🏻‍💻Working |   Bsc. Software Engineering   | ![ampli]  |  QQI NFQ Level 8  |  2022   | 2025     |
 | ✅Done    |   General English B2 and C1   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
 | ✅Done    |   General English C1 and C2   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
-| 👨🏻‍💻Working | Bachelors' in Business (Hons) |  ![ibat]  |  QQI NFQ Level 8  |  2024   | 2025     |
+| 👨🏻‍💻Working | Bachelors' in Business (Hons) |  ![ibat]  |  QQI NFQ Level 8  |  2025   | 2028     |
 
 ## 🏆 GitHub Trophies
 
@@ -75,6 +75,7 @@ Familiar Programming languages. [^1]
 [clang]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [saas]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whit
 [python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[java]: https://img.shields.io/badge/Java-ff4d00?style=for-the-badge&logo=java&logoColor=orange
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
