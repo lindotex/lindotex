@@ -31,10 +31,16 @@ Familiar Programming languages. [^1]
 | 👨🏻‍💻Working | Posgraduate in Industrial Instrumentation Engineering |  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
 | 👨🏻‍💻Working | Bachelors' in Business (Hons) |  ![ibat]  |  QQI NFQ Level 8  |  2025   | 2028     |
 | ✅Done    |   Bsc. Software Engineering   | ![ampli]  |  QQI NFQ Level 8  |  2022   | 2025     |
-| ✅Done    |   General English C1 and C2   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
-| ✅Done    |   General English B2 and C1   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
 | ✅Done    |  BTech in Quality Management  |  ![uca]   |  QQI NFQ Level 6  |  2019   | 2021     |
 | ✅Done    |  Instrumentation technician   |  ![iff]   |  QQI NFQ Level 5  |  2006   | 2009     |
+
+## Languages Skills
+
+| Status    |          Description          | Instutute | Instruction Level | Started | Finished |
+| :-------- | :---------------------------: | :-------: | :---------------: | :-----: | :------- |
+| ✅Done    |   Portuguese C2, Native       |  ![brasil]  |    C2 - Fluent    |  -   | -     |
+| ✅Done    |   General English C1 and C2   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
+| ✅Done    |   General English B2 and C1   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
 
 ## 🏆 GitHub Trophies
 
@@ -54,6 +60,7 @@ Familiar Programming languages. [^1]
 [ampli]: ./logo_ampli.png
 [ibat]: ./logo_ibat.png
 [icot]: ./logo_icot.png
+[brasil]: ./BRASIL_flag.png
 [ainhanguera]: ./AINHANGUERA_logo.png
 [notion]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 [trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
