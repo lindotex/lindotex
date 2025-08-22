@@ -15,8 +15,6 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 
 ![clang] ![nodejs] ![html5] ![python] ![reactjs] ![css3] ![java] ![vuejs] ![markdown] ![javascript] ![tailwind] ![git]  ![typescript] ![bootstrap]  ![saas]  ![php]  ![godot]  ![sql] ![notion] ![nosql] ![trello]  
 
-Familiar Programming languages. [^1]
-
 ## 📊 GitHub Activity
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindotex&langs_count=8&theme=tokyonight&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lindotex&theme=tokyonight&utcOffset=8) |
@@ -26,19 +24,18 @@ Familiar Programming languages. [^1]
 
 ## Formal Education
 
-| Status    |          Description          | Instutute | Instruction Level | Started | Finished |
-| :-------- | :---------------------------: | :-------: | :---------------: | :-----: | :------- |
+| Status    |          Description                                  | Instutute.       | Instruction Level | Started | Finished |
+| :-------- | :---------------------------------------------------: | :--------------: | :---------------: | :-----: | :------- |
 | 👨🏻‍💻Working | Posgraduate in Industrial Instrumentation Engineering |  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
-| 👨🏻‍💻Working | Bachelors' in Business (Hons) |  ![ibat]  |  QQI NFQ Level 8  |  2025   | 2028     |
-| ✅Done    |   Bsc. Software Engineering   | ![ampli]  |  QQI NFQ Level 8  |  2022   | 2025     |
-| ✅Done    |  BTech in Quality Management  |  ![uca]   |  QQI NFQ Level 6  |  2019   | 2021     |
-| ✅Done    |  Instrumentation technician   |  ![iff]   |  QQI NFQ Level 5  |  2006   | 2009     |
+| ✅Done    |   Bsc. Software Engineering                           | ![ampli]         |  QQI NFQ Level 8  |  2022   | 2025     |
+| ✅Done    |  BTech in Quality Management                          |  ![uca]          |  QQI NFQ Level 6  |  2019   | 2021     |
+| ✅Done    |  Instrumentation technician                           |  ![iff]          |  QQI NFQ Level 5  |  2006   | 2009     |
 
 ## Languages Skills
 
 | Status    |          Description          | Instutute | Instruction Level | Started | Finished |
 | :-------- | :---------------------------: | :-------: | :---------------: | :-----: | :------- |
-| ✅Done    |   Portuguese C2, Native       |  ![brasil]  |    C2 - Fluent    |  -   | -     |
+| ✅Done    |   Portuguese C2, Native       |![brasil]  |    C2 - Fluent    |  -      | -        |
 | ✅Done    |   General English C1 and C2   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
 | ✅Done    |   General English B2 and C1   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
 
