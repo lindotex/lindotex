@@ -26,7 +26,7 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 
 | Status    |          Description                                  | Instutute.       | Instruction Level | Started | Finished |
 | :-------- | :---------------------------------------------------: | :--------------: | :---------------: | :-----: | :------- |
-| 👨🏻‍💻Working | Posgraduate in Industrial Instrumentation Engineering |  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
+| ✅Done    | Posgraduate in Industrial Instrumentation Engineering |  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
 | ✅Done    |   Bsc. Software Engineering                           | ![ampli]         |  QQI NFQ Level 8  |  2022   | 2025     |
 | ✅Done    |  BTech in Quality Management                          |  ![uca]          |  QQI NFQ Level 6  |  2019   | 2021     |
 | ✅Done    |  Instrumentation technician                           |  ![iff]          |  QQI NFQ Level 5  |  2006   | 2009     |
@@ -44,7 +44,7 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 ![githubTrophies]
 
 <!-- END OF THE README-->
-<!-- below, there are the linked links -->
+<!-- below, there are links -->
 
 <!-- LINKS/IMG BINDING -->
 
