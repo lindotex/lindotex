@@ -2,10 +2,11 @@
 
 ![website] ![profileViews] ![watchers] ![followers]
 
-# ✨ Hello world! ✨
-
-👋🏻 I'm Alisson, Brazilian, 35y and in a career change.
-Former Industrial Automate Technician, I had work in Oil Industry since 2009. And since the beginning of the Pandemic, I started to study Software Engineering, trying a transition of career. Currently searching for some experience in real world! Open to internships or Junior positions. Currently taking my final year at college. I'm living abroad (Ireland) expanding my English language expertise and living some adventures.
+👋🏻  Hi, I'm Alisson! <br/><br/>I'm Brazilian, 35y and in a career change.
+Former Industrial Instrumentation and Automation Technician, I had work in Oil Industry since 2009. 
+And since the beginning of the Pandemic, I started studying Software Engineering, and currently I am trying a transition of career. 
+Currently searching for some experience in real world! Open to internships or Junior positions. 
+Living in Ireland (at the moment).
 
 ## 📫 How to reach me
 
@@ -26,18 +27,18 @@ Former Industrial Automate Technician, I had work in Oil Industry since 2009. An
 
 | Status    |          Description                                  | Instutute.       | Instruction Level | Started | Finished |
 | :-------- | :---------------------------------------------------: | :--------------: | :---------------: | :-----: | :------- |
-| ✅Done    | Posgraduate in Industrial Instrumentation Engineering |  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
-| ✅Done    |   Bsc. Software Engineering                           | ![ampli]         |  QQI NFQ Level 8  |  2022   | 2025     |
-| ✅Done    |  BTech in Quality Management                          |  ![uca]          |  QQI NFQ Level 6  |  2019   | 2021     |
+| ✅Done    | Posgraduate in Industrial Instrumentation Engineering|  ![ainhanguera]  |  QQI NFQ Level 9  |  2025   | 2026     |
+| ✅Done    |  Bsc. Software Engineering                        | ![ampli]         |  QQI NFQ Level 8  |  2022   | 2025     |
+| ✅Done    |  BTech in Quality Management                       |  ![uca]          |  QQI NFQ Level 6  |  2019   | 2021     |
 | ✅Done    |  Instrumentation technician                           |  ![iff]          |  QQI NFQ Level 5  |  2006   | 2009     |
 
 ## Languages Skills
 
 | Status    |          Description          | Instutute | Instruction Level | Started | Finished |
 | :-------- | :---------------------------: | :-------: | :---------------: | :-----: | :------- |
-| ✅Done    |   Portuguese C2, Native       |![brasil]  |    C2 - Fluent    |  -      | -        |
-| ✅Done    |   General English C1 and C2   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
-| ✅Done    |   General English B2 and C1   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
+| ✅Done    |   [Portuguese C2, Native](https://en.wikipedia.org/wiki/Brazil)       |![brasil]  |    C2 - Fluent    |  -      | -        |
+| ✅Done    |   [General English C1 and C2](https://icot.ie)   |  ![icot]  |    C2 - Fluent    |  2024   | 2025     |
+| ✅Done    |   [General English B2 and C1](https://www.ibat.ie/)   |  ![ibat]  |   C1 - Advanced   |  2023   | 2024     |
 
 ## 🏆 GitHub Trophies
 
